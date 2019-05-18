@@ -1,0 +1,25 @@
+{
+  "name": "ecomapi-logic",
+  "version": "1.0.0",
+  "description": "This repository contains all the logic for EcomApp.",
+  "main": "index.js",
+  "dependencies": {
+    "deep-freeze": "0.0.1",
+    "dotenv": "^8.0.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KoalaG/EcomApi-Logic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KoalaG/EcomApi-Logic/issues"
+  },
+  "homepage": "https://github.com/KoalaG/EcomApi-Logic#readme"
+}
